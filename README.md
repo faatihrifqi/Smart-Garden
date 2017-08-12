@@ -1,5 +1,9 @@
 # Smart-Garden
 
+![Alt text](https://github.com/faatihrifqi/Smart-Garden/blob/master/Screenshoot/Dashboard.png?raw=true "Dashboard")
+
+![Alt text](https://github.com/faatihrifqi/Smart-Garden/blob/master/Screenshoot/atur%20jadwal%20siram.png?raw=true "Atur Jadwal Siram")
+
 **Mongoose (Mongodb)**
 1. Install Node.js
 2. Install Mongodb<br />
