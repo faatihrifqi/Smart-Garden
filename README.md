@@ -10,35 +10,7 @@
 
 **MySQL**
 1. Install Node.js
-2. Install MySQL di server (dalam hal ini PC/Laptop). Pastikan database sudah terkonfigurasi dengan baik. Running di localhost:3306 (default)  
-
-    ```mysql
-    CREATE SCHEMA smartgarden;
-
-    USE smartgarden;
-
-    CREATE TABLE `smartgarden`.`kelembaban` (
-      `id` INT NOT NULL AUTO_INCREMENT,
-      `tanggal` DATETIME NOT NULL,
-      `nilai` VARCHAR(20) NOT NULL,
-      PRIMARY KEY (`id`)
-    );
-
-    CREATE TABLE `smartgarden`.`siram` (
-    `id` INT NOT NULL AUTO_INCREMENT,
-    `tanggal` DATETIME NOT NULL,
-    `status` VARCHAR(1) NOT NULL,
-    PRIMARY KEY (`id`)
-    );
-
-    CREATE TABLE `smartgarden`.`jadwal` (
-    `id` INT NOT NULL AUTO_INCREMENT,
-    `tanggal` DATETIME NOT NULL, 
-    `jam` VARCHAR(2) NOT NULL,
-    `menit` VARCHAR(2) NOT NULL,
-    PRIMARY KEY (`id`)
-    );
-    ```
+2. Install MySQL di server (dalam hal ini PC/Laptop). Pastikan database sudah terkonfigurasi dengan baik. Running di localhost:3306 (default)</br>
 3. Jalankan Smart Garden Server
 
 <br /><br />
