@@ -2,6 +2,8 @@
 
 ![Alt text](https://github.com/faatihrifqi/Smart-Garden/blob/master/Screenshoot/Dashboard.png | width=10)
 
+<img src="https://github.com/faatihrifqi/Smart-Garden/blob/master/Screenshoot/Dashboard.png" alt="Dashboard" style="width: 20px;"/>
+
 ![Alt text](https://github.com/faatihrifqi/Smart-Garden/blob/master/Screenshoot/atur%20jadwal%20siram.png?raw=true "Atur Jadwal Siram")
 
 **Mongoose (Mongodb)**
