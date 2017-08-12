@@ -1,10 +1,9 @@
 # Smart-Garden
 
-<div style="float:left"><img src="https://github.com/faatihrifqi/Smart-Garden/blob/master/Screenshoot/Dashboard.png" alt="Dashboard" height="500"/>
-
-<div style="float:right"><img src="https://github.com/faatihrifqi/Smart-Garden/blob/master/Screenshoot/atur%20jadwal%20siram.png" alt="Atur Jadwal Siram" height="500"/>
-
-<div style="clear: both;">
+<center><table>
+<tr><td><img src="https://github.com/faatihrifqi/Smart-Garden/blob/master/Screenshoot/Dashboard.png" alt="Dashboard" height="500"/></td>
+<td><img src="https://github.com/faatihrifqi/Smart-Garden/blob/master/Screenshoot/atur%20jadwal%20siram.png" alt="Atur Jadwal Siram" height="500"/></td></tr>
+</table></center>
 
 **Mongoose (Mongodb)**
 1. Install Node.js
