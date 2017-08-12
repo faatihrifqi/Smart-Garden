@@ -1,6 +1,6 @@
 # Smart-Garden
 
-![Alt text](https://github.com/faatihrifqi/Smart-Garden/blob/master/Screenshoot/Dashboard.png?raw=true "Dashboard" =25x)
+![Alt text](https://github.com/faatihrifqi/Smart-Garden/blob/master/Screenshoot/Dashboard.png?raw=true "Dashboard" | width=100)
 
 ![Alt text](https://github.com/faatihrifqi/Smart-Garden/blob/master/Screenshoot/atur%20jadwal%20siram.png?raw=true "Atur Jadwal Siram")
 
