@@ -4,6 +4,8 @@
 
 <div style="float:right"><img src="https://github.com/faatihrifqi/Smart-Garden/blob/master/Screenshoot/atur%20jadwal%20siram.png" alt="Atur Jadwal Siram" height="500"/>
 
+<div style="clear: both;">
+
 **Mongoose (Mongodb)**
 1. Install Node.js
 2. Install Mongodb<br />
